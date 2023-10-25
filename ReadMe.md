@@ -1,10 +1,10 @@
 # 🌐 Capítulo 8 Graph Machine Learning
 
     
-De las ramas de la inteligencia artificial, el aprendizaje automático es una que ha atraído
+De las ramas de la inteligencia artificial, el aprendizaje automático  (Machine L earning)es una que ha atraído
 la mayor atención en los últimos años. Se refiere a una clase de algoritmos informáticos que
-aprender y mejorar automáticamente sus habilidades a través de la experiencia sin ser explícitamente
-programado. Este enfoque se inspira en la naturaleza. Imaginemos un atleta que
+aprenden y mejoran automáticamente sus habilidades a través de la experiencia sin ser explícitamente
+programados. Este enfoque se inspira en la naturaleza. Imaginemos un atleta que
 se enfrenta por primera vez a un movimiento novedoso: empieza lentamente, imitando cuidadosamente el gesto
 de un entrenador, intentar, cometer errores y volver a intentarlo. Con el tiempo mejorarán,
 cada vez más confiado.
