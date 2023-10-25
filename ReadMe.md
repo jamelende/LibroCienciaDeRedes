@@ -8,7 +8,7 @@ https://github.com/jamelende/LibroCienciaDeRedes/assets/55796430/8568ca9b-e028-4
 <img src="Imagenes/Imagen1.png" width =340pt>
 
 
-https://github.com/jamelende/LibroCienciaDeRedes/blob/main/Videos/VideoRedPref.mp4
+https://github.com/jamelende/LibroCienciaDeRedes/raw/main/Videos/VideoRedPref.mp4
 
 
 
@@ -16,7 +16,7 @@ https://github.com/jamelende/LibroCienciaDeRedes/blob/main/Videos/VideoRedPref.m
 
 # 🌐 Capítulo 2  Conceptos Básicos de Grafos
 <img src="Imagenes/Imagen2.png" width =340pt>
-
+https://github.com/jamelende/LibroCienciaDeRedes/raw/main/Videos/VideoRedAleatoria.mp4
 
 # 🌐 Capítulo 3 Medidas Locales y Globales de una Red
 <img src="Imagenes/Imagen3.png" width =340pt>
