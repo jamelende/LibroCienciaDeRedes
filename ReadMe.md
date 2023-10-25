@@ -19,3 +19,23 @@ Las decisiones se evalúan utilizando la función de pérdida. El error resultan
 parámetros del modelo de una manera que, con suerte, signifique que el modelo funcionará mejor. Este
  proceso se llama comúnmente entrenamiento.
 </div>
+
+# 🌐 Apéndice: Recursos
+
+### Books
+- [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
+- [Network Science](http://networksciencebook.com/) by Albert-László Barabási
+- [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/) by David Easley and Jon Kleinberg
+- [Analysis of Biological Networks](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470253489), 2007.
+
+###  Graph Machine Learning Tools
+- [DGL (Deep Graph Library)](https://www.dgl.ai/)
+- [PyG (PyTorch Geometric)](https://www.pyg.org/)
+- [NetworkX](https://networkx.org/)
+
+### Courses
+- [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) by Jure Leskovec
+
+### Tips and Tools for Data Science
+- [Fundamental and Useful Tools and Tips for Data Science](https://github.com/zahta/tools_tips_data_science)
+- [Essential Steps to Set Up Your PC for Graph Machine Learning with PyG](https://github.com/zahta/graph_ml/tree/main/setup_pc_for_coding_gml)
