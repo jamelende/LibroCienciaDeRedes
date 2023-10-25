@@ -4,14 +4,35 @@
 
 
 # 🌐 Capítulo 1 ¿Qué es la Ciencia de redes?
+<img src="Imagenes/Imagen1.png" width =340pt>
+
+
 # 🌐 Capítulo 2  Conceptos Básicos de Grafos
+<img src="Imagenes/Imagen2.png" width =340pt>
+
+
 # 🌐 Capítulo 3 Medidas Locales y Globales de una Red
+<img src="Imagenes/Imagen3.png" width =340pt>
+
+
 # 🌐 Capítulo 4 Modelos de redes
+<img src="Imagenes/Imagen4.png" width =340pt>
+
+
 # 🌐 Capítulo 5 Difusión en Redes
+<img src="Imagenes/Imagen5.png" width =340pt>
+
+
 # 🌐 Capítulo 6 Las redes y su Vulnerabilidad
-# 🌐 Capítulo 6 Redes Dinámicas
+<img src="Imagenes/Imagen6.png" width =340pt>
+
+# 🌐 Capítulo 7 Redes Dinámicas
+<img src="Imagenes/Imagen7.png" width =340pt>
+
+
 
 # 🌐 Capítulo 8 Aprendizaje Automático usando redes (Graph machine learning)
+<img src="Imagenes/Imagen8.png" width =340pt>
 
 <div align="justify">
     
