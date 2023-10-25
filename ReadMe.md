@@ -20,10 +20,21 @@ https://github.com/jamelende/LibroCienciaDeRedes/assets/55796430/8ec69ad5-0b61-4
 
 # 🌐 Capítulo 2  Conceptos Básicos de Grafos
 <img src="Imagenes/Imagen2.png" width =340pt>
-https://github.com/jamelende/LibroCienciaDeRedes/raw/main/Videos/VideoRedAleatoria.mp4
+
+
+
+https://github.com/jamelende/LibroCienciaDeRedes/assets/55796430/955cbb26-214c-4da5-add3-28fc6c7993c2
+
+
 
 # 🌐 Capítulo 3 Medidas Locales y Globales de una Red
 <img src="Imagenes/Imagen3.png" width =340pt>
+
+
+
+
+https://github.com/jamelende/LibroCienciaDeRedes/assets/55796430/cbf1b4eb-f9b6-4382-b940-1a8e5a3de140
+
 
 # 🌐 Capítulo 4 Modelos de redes
 <img src="Imagenes/Imagen4.png" width =340pt>
