@@ -20,7 +20,7 @@ https://github.com/jamelende/LibroCienciaDeRedes/assets/55796430/8568ca9b-e028-4
 # 🌐 Capítulo 3 Medidas Locales y Globales de una Red
 <img src="Imagenes/Imagen3.png" width =340pt>
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/jamelende/LibroCienciaDeRedes/blob/main/Videos/RedPrefConGrados.gif?raw=true))
+![](https://github.com/jamelende/LibroCienciaDeRedes/blob/main/Videos/RedPrefConGrados.gif?raw=true)
 # 🌐 Capítulo 4 Modelos de redes
 <img src="Imagenes/Imagen4.png" width =340pt>
 
