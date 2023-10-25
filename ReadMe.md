@@ -7,6 +7,12 @@
 <img src="Imagenes/Imagen1.png" width =340pt>
 
 
+
+
+https://github.com/jamelende/LibroCienciaDeRedes/assets/55796430/8568ca9b-e028-496f-8608-38379584735e
+
+
+
 # 🌐 Capítulo 2  Conceptos Básicos de Grafos
 <img src="Imagenes/Imagen2.png" width =340pt>
 
