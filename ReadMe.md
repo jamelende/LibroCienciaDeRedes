@@ -1,8 +1,9 @@
-# 🌐 Graph Neural Network Course
+# 🌐 Capítulo 8 Graph Machine Learning
 
-Graph Neural Networks (GNNs) are one of the **most interesting architectures in deep learning** but educational resources are **scarce and more research-oriented**.
 
-In this course, you'll learn **everything you need to know** from fundamental architectures to the current **state of the art** in GNNs.
+Las redes neuronales gráficas (GNN) son una de las **arquitecturas más interesantes en aprendizaje profundo** pero los recursos educativos son **escasos y más orientados a la investigación**.
+
+En este capítulo , aprenderá **todo lo que necesita saber** desde arquitecturas fundamentales hasta el **estado del arte** actual en GNN.
 
 | Chapter                               | Description                                                             | Article                                                                                     | Notebook                                                                                                                                             |
 |---------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
