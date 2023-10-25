@@ -8,7 +8,11 @@ https://github.com/jamelende/LibroCienciaDeRedes/assets/55796430/8568ca9b-e028-4
 <img src="Imagenes/Imagen1.png" width =340pt>
 
 
-https://github.com/jamelende/LibroCienciaDeRedes/raw/main/Videos/VideoRedPref.mp4
+
+
+
+
+https://github.com/jamelende/LibroCienciaDeRedes/assets/55796430/8ec69ad5-0b61-4460-b251-643641a40d0b
 
 
 
