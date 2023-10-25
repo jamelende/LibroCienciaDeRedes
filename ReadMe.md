@@ -6,7 +6,7 @@
 # 🌐 Capítulo 1 ¿Qué es la Ciencia de redes?
 <img src="Imagenes/Imagen1.png" width =340pt>
 
-
+https://github.com/jamelende/LibroCienciaDeRedes/blob/main/Videos/VideoRedAleatoria.mp4
 
 
 https://github.com/jamelende/LibroCienciaDeRedes/assets/55796430/8568ca9b-e028-496f-8608-38379584735e
