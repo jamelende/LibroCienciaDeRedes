@@ -1,22 +1,19 @@
 # 🌐 Capítulo 8 Graph Machine Learning
 
-
-Las redes neuronales gráficas (GNN) son una de las **arquitecturas más interesantes en aprendizaje profundo** pero los recursos educativos son **escasos y más orientados a la investigación**.
-
-En este capítulo , aprenderá **todo lo que necesita saber** desde arquitecturas fundamentales hasta el **estado del arte** actual en GNN.
-
-| Chapter                               | Description                                                             | Article                                                                                     | Notebook                                                                                                                                             |
-|---------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. Introduction to Graph Neural Networks | What's a GNN? Essentials of graph theory with PyTorch Geometric.        | [Article](https://mlabonne.github.io/blog/intrognn/)                                        | <a href="https://colab.research.google.com/drive/1ZugveUjRrbSNwUbryeKJN2wyhGFRCw0q?usp=sharing"><img src="images/colab.svg" alt="Open In Colab"></a> |
-| 2. Graph Attention Network               | Implement a GNN with self-attention to classify nodes on CiteSeer.      | [Article](https://mlabonne.github.io/blog/gat/) | <a href="https://colab.research.google.com/drive/1B0vLpH_gSfrOLgsc2UZVyXrcofzA-t0L?usp=sharing"><img src="images/colab.svg" alt="Open In Colab"></a> |
-| 3. GraphSAGE                             | Scale GNNs with mini-batching and the GraphSAGE architecture on PubMed. | [Article](https://mlabonne.github.io/blog/graphsage/)  | <a href="https://colab.research.google.com/drive/1udeUfWJzvMlLO7sGUDGsHo8cRPMicajl?usp=sharing"><img src="images/colab.svg" alt="Open In Colab"></a> |
-| 4. Graph Isomorphism Network                             | Maximize the power of the GNN for graph classification on PROTEINS. | [Article](https://mlabonne.github.io/blog/gin/)  | <a href="https://colab.research.google.com/drive/1b6SWugNKnxsI0L9auX1zwszlXf3rRZyS?usp=sharing"><img src="images/colab.svg" alt="Open In Colab"></a> |
-
-## 👨‍💻 Contact
-
-* Email: <a href="mailto:labonne.maxime@gmail.com">labonne.maxime@gmail.com</a>
-* Twitter: <a href="https://twitter.com/maximelabonne">@maximelabonne</a>
-* Medium: https://medium.com/@mlabonne
-* Blog: https://mlabonne.github.io/blog/
-
-Let's connect on [Twitter](https://twitter.com/maximelabonne) and [Medium](https://medium.com/@mlabonne)!
+    
+De las ramas de la inteligencia artificial, el aprendizaje automático es una que ha atraído
+la mayor atención en los últimos años. Se refiere a una clase de algoritmos informáticos que
+aprender y mejorar automáticamente sus habilidades a través de la experiencia sin ser explícitamente
+programado. Este enfoque se inspira en la naturaleza. Imaginemos un atleta que
+se enfrenta por primera vez a un movimiento novedoso: empieza lentamente, imitando cuidadosamente el gesto
+de un entrenador, intentar, cometer errores y volver a intentarlo. Con el tiempo mejorarán,
+cada vez más confiado.
+Ahora bien, ¿cómo se traslada este concepto a las máquinas? Es esencialmente una optimización.
+problema. El objetivo es encontrar un modelo matemático que sea capaz de lograr la mejor
+posible desempeño en una tarea particular. El rendimiento se puede medir utilizando un parámetro específico.
+métrica de rendimiento (también conocida como función de pérdida o función de costo). en común
+tarea de aprendizaje, el algoritmo recibe datos, posiblemente muchos de ellos. El algoritmo utiliza
+estos datos para tomar decisiones o predicciones de forma iterativa para la tarea específica. En cada iteración,
+Las decisiones se evalúan utilizando la función de pérdida. El error resultante se utiliza para actualizar el
+parámetros del modelo de una manera que, con suerte, signifique que el modelo funcionará mejor. Este
+El proceso se llama comúnmente entrenamiento.
