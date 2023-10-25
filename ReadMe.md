@@ -1,4 +1,4 @@
-# 🌐 Capítulo 8 Graph Machine Learning
+# 🌐 Capítulo 8 Aprendizaje Automático usando redes (Graph machine learning)
 
     
 De las ramas de la inteligencia artificial, el aprendizaje automático  (Machine L earning)es una que ha atraído
