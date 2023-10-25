@@ -2,14 +2,15 @@
 |:-:|:-:|
 | <img src="https://avatars.githubusercontent.com/u/55796430?v=4"  width=170pt > <br> <b>[Alfonso Meléndez](http://profesores.is.escuelaing.edu.co/~amelendez/HojaDeVida/HojaDeVida.html)</b>   | **[Maestría en Ciencia de Datos](http://ds.sbu.ac.ir/)**  <br>  <br> **[Escuela Col de Ingeniería Bogotá, Colombia](http://www.escuelaing.edu.co)** <br>  <br> <b> Segundo Semestre de  2023</b> |
 
+https://github.com/jamelende/LibroCienciaDeRedes/assets/55796430/8568ca9b-e028-496f-8608-38379584735e
 
 # 🌐 Capítulo 1 ¿Qué es la Ciencia de redes?
 <img src="Imagenes/Imagen1.png" width =340pt>
 
-https://github.com/jamelende/LibroCienciaDeRedes/blob/main/Videos/VideoRedAleatoria.mp4
 
 
-https://github.com/jamelende/LibroCienciaDeRedes/assets/55796430/8568ca9b-e028-496f-8608-38379584735e
+
+
 
 
 
@@ -20,7 +21,6 @@ https://github.com/jamelende/LibroCienciaDeRedes/assets/55796430/8568ca9b-e028-4
 # 🌐 Capítulo 3 Medidas Locales y Globales de una Red
 <img src="Imagenes/Imagen3.png" width =340pt>
 
-![](https://github.com/jamelende/LibroCienciaDeRedes/blob/main/Videos/RedPrefConGrados.gif?raw=true)
 # 🌐 Capítulo 4 Modelos de redes
 <img src="Imagenes/Imagen4.png" width =340pt>
 
