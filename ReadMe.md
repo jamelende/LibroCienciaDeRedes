@@ -1,6 +1,16 @@
 |<b>Profesor</b>    |   |
 |:-:|:-:|
-| <img src="https://avatars.githubusercontent.com/u/55796430?v=4"  width=170pt > <br> <b>[Alfonso Meléndez](https://github.com/zahta)</b>   | **[Maestría en Ciencia de Datos](http://ds.sbu.ac.ir/)**  <br>  <br> **[Escuela Col de Ingeniería Bogotá, Colombia](https://en.sbu.ac.ir/)** <br>  <br> <b> Segundo Semestre de  2023</b> |
+| <img src="https://avatars.githubusercontent.com/u/55796430?v=4"  width=170pt > <br> <b>[Alfonso Meléndez](http://profesores.is.escuelaing.edu.co/~amelendez/HojaDeVida/HojaDeVida.html)</b>   | **[Maestría en Ciencia de Datos](http://ds.sbu.ac.ir/)**  <br>  <br> **[Escuela Col de Ingeniería Bogotá, Colombia](http://www.escuelaing.edu.co)** <br>  <br> <b> Segundo Semestre de  2023</b> |
+
+
+# 🌐 Capítulo 1 ¿Qué es la Ciencia de redes?
+# 🌐 Capítulo 2  Conceptos Básicos de Grafos
+# 🌐 Capítulo 3 Medidas Locales y Globales de una Red
+# 🌐 Capítulo 4 Modelos de redes
+# 🌐 Capítulo 5 Difusión en Redes
+# 🌐 Capítulo 6 Las redes y su Vulnerabilidad
+# 🌐 Capítulo 6 Redes Dinámicas
+
 # 🌐 Capítulo 8 Aprendizaje Automático usando redes (Graph machine learning)
 
 <div align="justify">
