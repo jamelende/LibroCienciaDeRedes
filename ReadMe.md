@@ -1,5 +1,6 @@
 # 🌐 Capítulo 8 Aprendizaje Automático usando redes (Graph machine learning)
 
+<div align="justify">
     
 De las ramas de la inteligencia artificial, el aprendizaje automático  (Machine L earning)es una que ha atraído
 la mayor atención en los últimos años. Se refiere a una clase de algoritmos informáticos que
@@ -17,3 +18,4 @@ estos datos para tomar decisiones o predicciones de forma iterativa para la tare
 Las decisiones se evalúan utilizando la función de pérdida. El error resultante se utiliza para actualizar el
 parámetros del modelo de una manera que, con suerte, signifique que el modelo funcionará mejor. Este
  proceso se llama comúnmente entrenamiento.
+</div>
