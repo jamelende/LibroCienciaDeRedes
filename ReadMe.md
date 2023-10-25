@@ -1,6 +1,6 @@
 |<b>Profesor</b>    |   |
 |:-:|:-:|
-| <img src="https://avatars.githubusercontent.com/u/55796430?v=4"  width=170pt > <br> <b>[Zahra Taheri](https://github.com/zahta)</b>   | **[Data Science Center](http://ds.sbu.ac.ir/)**  <br>  <br> **[Shahid Beheshti University](https://en.sbu.ac.ir/)** <br>  <br> <b> Winter 2023</b> |
+| <img src="https://avatars.githubusercontent.com/u/55796430?v=4"  width=170pt > <br> <b>[Alfonso Meléndez](https://github.com/zahta)</b>   | **[Maestría en Ciencia de Datos](http://ds.sbu.ac.ir/)**  <br>  <br> **[Escuela Col de Ingeniería Bogotá, Colombia](https://en.sbu.ac.ir/)** <br>  <br> <b> Segundo Semestre de  2023</b> |
 # 🌐 Capítulo 8 Aprendizaje Automático usando redes (Graph machine learning)
 
 <div align="justify">
