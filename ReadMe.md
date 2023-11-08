@@ -4,7 +4,7 @@
 
 https://github.com/jamelende/LibroCienciaDeRedes/assets/55796430/8568ca9b-e028-496f-8608-38379584735e
 
-# 🌐 Capítulo 1 ¿Qué es la Ciencia de redes?
+# 🌐 Capítulo 1 ¿Qué es la Ciencia de redes? Una introducción
 <img src="Imagenes/Imagen1.png" width =340pt>
 
 
